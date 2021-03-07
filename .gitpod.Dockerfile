@@ -7,3 +7,4 @@ FROM gitpod/workspace-full
 # More information: https://www.gitpod.io/docs/config-docker/
 RUN sudo apt-get update &&\
     sudo apt-get install -y haskell-platform
+RUN wget -qO- https://get.haskellstack.org/ | sh
