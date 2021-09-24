@@ -6,6 +6,4 @@ tasks:
     command: 'echo "TODO: Replace with command to start project"'
 vscode:
   extensions:
-    - haskell.haskell@1.2.0:ZPrUKYpwCCFQf9Q0phszuQ==
-    - justusadam.language-haskell@3.3.0:uqgpHstOoamig+7LyFNNVw==
-    - gattytto.phoityne-vscode@0.0.29:zDRfEpZhRUCw1C9afPQ94g==
+    - haskell.haskell
